@@ -63,7 +63,7 @@ This Tableau-based data visualization project analyzes the adoption and distribu
 
 ## 🖼️ Screenshots
 
-* **Final Report View**
+* **Final Dashboard View**
 
 ---
 
