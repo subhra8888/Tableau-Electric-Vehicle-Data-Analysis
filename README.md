@@ -64,7 +64,7 @@ This Tableau-based data visualization project analyzes the adoption and distribu
 ## 🖼️ Screenshots
 
 ### Dashboard Overview
-![Dashboard Screenshot](./assets/dashboard.)
+![Dashboard Screenshot](https://github.com/subhra8888/Tableau-Electric-Vehicle-Data-Analysis/blob/main/Screenshot%202025-06-26%20220107.png)
 
 
 ---
