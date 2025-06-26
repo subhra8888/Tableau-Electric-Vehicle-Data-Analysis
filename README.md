@@ -57,9 +57,6 @@ This Tableau-based data visualization project analyzes the adoption and distribu
 
 ## 📂 Dataset
 
-- **Source**: U.S. Department of Transportation / Open Data Portal  
-- **Data Size**: 150,482 rows  
-- **Time Range**: 1997–2024 (Filtered from 2011 onwards for analysis)  
 - **Dataset Link**: [Click Here to Access Dataset](https://drive.google.com/file/d/1PVXIynWH-zM6p902n635onEZnYxw4NR6/view?usp=drive_link) *(Replace with actual URL)*
 
 ---
