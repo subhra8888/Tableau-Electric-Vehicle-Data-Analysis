@@ -1,2 +1,75 @@
 # Tableau-Electric-Vehicle-Data-Analysis
 This project presents an Electric Vehicle Data Analysis using Tableau, focusing on BEV and PHEV data in the USA from 1997 to 2024. The dataset contains 150,482 rows, and the analysis highlights trends from 2011 onwards. Key insights include vehicle type distribution, growth patterns, and state-wise adoption trends.
+
+# ⚡ Electric Vehicle Data Analysis Project (USA) – Tableau Dashboard
+
+## 📊 Project Description
+This Tableau-based data visualization project analyzes the adoption and distribution of **Battery Electric Vehicles (BEV)** and **Plug-in Hybrid Electric Vehicles (PHEV)** across the **United States** from **2011 to 2024**, using a dataset of **150,482 rows**. The dashboard provides key insights into growth trends, manufacturer performance, regional adoption, and policy impact through CAFV eligibility.
+
+---
+
+## ✅ KPI’s Requirement
+
+### 1. **Total Vehicles by Model Year (From 2011 Onwards)**
+- **Visualization**: Line / Area Chart  
+- **Description**: Depicts the growth and adoption trend of electric vehicles over the years from 2011, offering a clear picture of year-on-year developments.
+
+### 2. **Total Vehicles by State**
+- **Visualization**: Map Chart  
+- **Description**: Illustrates the state-wise distribution of electric vehicles, helping identify high and low adoption regions across the U.S.
+
+### 3. **Top 10 Total Vehicles by Make**
+- **Visualization**: Bar Chart  
+- **Description**: Displays the top 10 electric vehicle manufacturers by volume, offering insights into market leaders.
+
+### 4. **Total Vehicles by CAFV Eligibility**
+- **Visualization**: Pie / Donut Chart  
+- **Description**: Shows the proportion of vehicles eligible for **Clean Alternative Fuel Vehicle (CAFV)** incentives, highlighting the influence of clean energy policies.
+
+---
+
+## 📈 Charts Requirement
+
+(All visualizations listed above are also detailed under KPIs.)
+
+- Line / Area Chart for yearly vehicle trend (2011+)
+- Map Chart for state-wise distribution
+- Bar Chart for top 10 manufacturers
+- Pie / Donut Chart for CAFV eligibility
+
+---
+
+## 🎛️ Filters Used
+
+- **CAFV Eligibility**
+- **Electric Vehicle Type (BEV, PHEV)**
+- **Model**
+- **Make**
+- **State**
+
+---
+
+## 🔍 Key Insights
+
+- Significant increase in EV adoption post-2015, with a sharp rise from 2018 onward.
+- California leads in EV registrations, followed by Washington and Oregon.
+- Tesla dominates the manufacturer space, followed by Nissan and Chevrolet.
+- A substantial percentage of vehicles are CAFV-eligible, indicating policy-driven adoption.
+
+---
+
+## 📂 Dataset
+
+- **Source**: U.S. Department of Transportation / Open Data Portal  
+- **Data Size**: 150,482 rows  
+- **Time Range**: 1997–2024 (Filtered from 2011 onwards for analysis)  
+- **Dataset Link**: [Click Here to Access Dataset](#) *(Replace with actual URL)*
+
+---
+
+## 🖼️ Screenshots
+
+Include relevant screenshots of the Tableau dashboard here.
+
+---
+
