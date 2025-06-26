@@ -64,7 +64,10 @@ This Tableau-based data visualization project analyzes the adoption and distribu
 ## 🖼️ Screenshots
 
 * **Final Dashboard View**
-  [Click here to access the Power BI dataset](https://drive.google.com/drive/folders/1evNA3oT4vTgGGTYEmuAqQFJc-sH_WRzr?usp=sharing)
+
+### Dashboard Overview
+![Dashboard Screenshot](./assets/dashboard.png)
+
 
 ---
 
