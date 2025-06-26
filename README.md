@@ -29,7 +29,7 @@ This Tableau-based data visualization project analyzes the adoption and distribu
 
 (All visualizations listed above are also detailed under KPIs.)
 
-- Line / Area Chart for yearly vehicle trend (2011+)
+- Line / Area Chart for yearly vehicle trend
 - Map Chart for state-wise distribution
 - Bar Chart for top 10 manufacturers
 - Pie / Donut Chart for CAFV eligibility
